@@ -1,1 +1,7 @@
 
+streamlit
+transformers
+pipeline
+tensorflow
+tf-keras
+
